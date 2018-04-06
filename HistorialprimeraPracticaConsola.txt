@@ -1,0 +1,173 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo su
+    6  afssfad
+    7  off
+    8  ,cheapforlinux
+    9  is
+   10  in
+   11  pwd
+   12  Pwd
+   13  pwd
+   14  wd
+   15  gwd
+   16  ls
+   17  ls -- help
+   18  ls --help
+   19  man ls
+   20  ls - b
+   21  ls  - b
+   22  clear
+   23  ls
+   24  ls -1 Documentos
+   25  ls
+   26  -
+   27  -1
+   28  ls -1
+   29  ls -1 documentos
+   30  }ls -1 Documentos
+   31  celar
+   32  clear
+   33  ls
+   34  pwd
+   35  man pwd
+   36  cd
+   37  pwd
+   38  cd :
+   39  ls
+   40  pwd
+   41  ls
+   42  cd :
+   43  cd ..
+   44  ls
+   45  cd alumno/
+   46  cd .. 
+   47  pwd
+   48  ls
+   49  cd..
+   50  cd .. 
+   51  pwd
+   52  ls
+   53  cd etc
+   54  ls
+   55  ls *h
+   56  ls ap*
+   57  ls app*
+   58  cd
+   59  cd ..
+   60  cd alumno/
+   61  pwd
+   62  cd home
+   63  touch miarchivo
+   64  ls
+   65  ls - l
+   66  ls -- l
+   67  ls -l
+   68  ls-l
+   69  pwd
+   70  ls
+   71  ls-l
+   72  ls -l
+   73  tree
+   74  mkdir principal
+   75  ls
+   76  mkdir principal/persona
+   77  tree
+   78  cd principal/
+   79  mkdir../secundario
+   80  ls
+   81  cd..
+   82  tree
+   83  cd..
+   84  cd persona/
+   85  ls
+   86  pwd
+   87  cd..
+   88  cd
+   89  pwd
+   90  mkdir../secundario
+   91  mkdir../Secundario
+   92  mkdir Secundario
+   93  ls
+   94  cd principal/
+   95  pwd
+   96  cd persona/
+   97  cd home
+   98  cd
+   99  pwd
+  100  tree
+  101  cd Secundario/
+  102  cd persona
+  103  pwd
+  104  cd
+  105  pwd
+  106  cd persona
+  107  cd pr
+  108  cd principal/
+  109  cd persona/
+  110  mkdir../../secundario/alumno
+  111  mkdir../../Secundario/alumno
+  112  tree
+  113  cd home
+  114  cd
+  115  pwd
+  116  tree
+  117  cd Secundario/
+  118  mkdir alumno
+  119  tree
+  120  cd
+  121  tree
+  122  pwd
+  123  cd Secundario/alumno
+  124  mkdir ../../principal/
+  125  cd ../../principal/
+  126  pwd
+  127  cd persona/
+  128  cd
+  129  pwd
+  130  cd principal/
+  131  mkdir uno/unoA
+  132  mkdir -p  uno/unoA
+  133  tree
+  134  mkdir -p app/ {estilos, funciones/logica, funciones/variables} 
+  135  tree
+  136  cd
+  137  pwd
+  138  mkdir -p codigo/{java,c,php}/fuentes
+  139  tree
+  140  pwd
+  141  rm -r codigo
+  142  tree
+  143  cd principal/
+  144  rm -r app
+  145  rm -r {funciones,persona,uno,\{estilos\,} 
+  146  tree
+  147  cd
+  148  tree
+  149  cd principal
+  150  tree
+  151  mkdir -p codigo/{Java, C, Php}/fuentes
+  152  tree
+  153  rm -r Php}/
+  154  rm -r C,/
+  155  rm-r codigo/
+  156  ls
+  157  rm -r codigo/
+  158  cd
+  159  tree
+  160  cd principal/
+  161  mkdir -p Dato/{Personales/publicos,Personales/privados,Fiscales/AFIP,Fiscales/ARBA}
+  162  tree
+  163  rm -r Dato
+  164  tree
+  165  mkdir -p dato/{personales/publicos/backup, personales/privados/backup,fiscales/afip/pagos,fiscales/arba/pagos}
+  166  tree
+  167  mr -r dato
+  168  rm -r dato
+  169  rm -r personales
+  170  tree
+  171  mkdir -p dato/{personales,fiscales}/{personales/publicos,personales/privados}/backup
+  172  tree
+  173  history > historial.txt
