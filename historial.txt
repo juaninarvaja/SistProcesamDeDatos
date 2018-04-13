@@ -1,0 +1,93 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo su
+    6  tree
+    7  mkdir principal
+    8  tree
+    9  cd principal
+   10  mkdir -p Dato{personales/publicos/backup,personales/privados/backup,fiscales/AFIP/pagos,fiscales/ARBA/pagos}
+   11  tree
+   12  mkdir -p Dato {personales/publicos/backup,personales/privados/backup,fiscales/AFIP/pagos,fiscales/ARBA/pagos}
+   13  tree
+   14  rm -r Datofiscales
+   15  rm -r Datopersonales
+   16  tree
+   17  rm -r Dato
+   18  rm -r fiscales
+   19  rm -r personales
+   20  tree
+   21  cd
+   22  tree
+   23  history
+   24  history > historial.utn
+   25  cat historial.utn
+   26  ping
+   27  pint -i
+   28  ping -i
+   29  ping 500
+   30  ping 50
+   31  ping 1
+   32  ping 0
+   33  fskjhsad
+   34  tree
+   35  cd Escritorio
+   36  history > historial.txt
+   37  sudo su
+   38  ps awfx
+   39  clean
+   40  clear
+   41  kill gigolo
+   42  ps
+   43  ls
+   44  cd
+   45  ls
+   46  pwd
+   47  history
+   48  sudo su
+   49  sudo su -
+   50  history
+   51  clear
+   52  sudo su 
+   53  eco "hola consola"
+   54  echo "hola consola"
+   55  ls -l
+   56  echo"asjasl"
+   57  edit
+   58  clear
+   59  echo "Hola mundo consola">Saludar.txt
+   60  cat saludar.txt
+   61  cat Saludar.txt
+   62  ls -l
+   63  cat Saludar.txt
+   64  echo "borro lo anterior" > Saludar.txt
+   65  cat Saludar.txt
+   66  echo"continuando con lo anterior" >> Saludar.txt
+   67  cat Saludar.txt
+   68  echo "continuando con lo anterior" >> Saludar.txt
+   69  cat Saludar.txt
+   70  md5zoom Saludar.txt
+   71  md5zum Saludar.txt
+   72  md5 zoom Saludar.txt
+   73  MD5 zoom Saludar.txt
+   74  md5sum Saludar.txt
+   75  sha Saludar.txt
+   76  sha
+   77  man sha
+   78  sha Saludar.txt
+   79  sha
+   80  md5 sha
+   81  sha 256512 
+   82  sha256sum Saludar.txt
+   83  sha256sum Saludar.txt > hash.txt
+   84  cat hash.txt
+   85  ls
+   86  sha256sum > hash.txt
+   87  ls
+   88  car hash.txt
+   89  cat hash.txt
+   90  ls
+   91  sha256sum Saludar.txt > hash.txt
+   92  cat hash.txt
+   93  history > historial.txt
